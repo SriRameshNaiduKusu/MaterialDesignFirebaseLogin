@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "227244239901",
+    "firebase_url": "https://fir-email-login-e4668.firebaseio.com",
+    "project_id": "fir-email-login-e4668",
+    "storage_bucket": "fir-email-login-e4668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227244239901:android:3ed6e99f54a383fc",
+        "android_client_info": {
+          "package_name": "in.cyberworldtechnologies.materialdesignfirebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227244239901-i1atntlbdtnavlp5g6h2ee5u37s9i7i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8JQZmEfzAT6Hofgr6iOHYY7tXP_RSGXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

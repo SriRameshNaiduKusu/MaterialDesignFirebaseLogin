@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Login</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cyber World Technologies</string>
+    <string name="nav_header_subtitle">contact@cyberworldtechnologies.in</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
